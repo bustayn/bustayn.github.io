@@ -1,7 +1,7 @@
 ## My GitHub Pages
 
 [Javascript30](https://busracagliyan.github.io/JavaScript30)
-[new page](/assets/index1.html)
+[new page](/assets/js-drum-kit/index.html)
 
 You can use the [editor on GitHub](https://github.com/bustayn/bustayn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
