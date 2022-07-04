@@ -5,7 +5,11 @@
 [new page](/assets/js-drum-kit/index.html)
 
 
-[new page2](https://github.com/bustayn/bustayn.github.io/tree/main/assets/02%20-%20css%20%2B%20js%20clock/index.html)
+[new page2](https://github.com/bustayn/bustayn.github.io/blob/main/assets/02-css-js-clock/index.html)
+
+[new page3](https://github.com/bustayn/bustayn.github.io/blob/main/assets/03-playing-with-css-variables-and-js/index.html)
+
+[new page4](https://github.com/bustayn/bustayn.github.io/blob/main/assets/02-css-js-clock/index.html)
 
 You can use the [editor on GitHub](https://github.com/bustayn/bustayn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
