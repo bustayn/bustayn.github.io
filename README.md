@@ -7,7 +7,7 @@
 
 [new page2](assets/02-css-js-clock/index.html)
 
-[new page3](assests/03-playing-with-css-variables-and-js/index.html)
+[new page3](assets/03-playing-with-css-variables-and-js/index.html)
 
 [new page4](assets/02-css-js-clock/index.html)
 
