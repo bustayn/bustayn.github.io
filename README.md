@@ -4,6 +4,9 @@
 
 [new page](/assets/js-drum-kit/index.html)
 
+
+[new page2](https://github.com/bustayn/bustayn.github.io/tree/main/assets/02%20-%20css%20%2B%20js%20clock/index.html)
+
 You can use the [editor on GitHub](https://github.com/bustayn/bustayn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
