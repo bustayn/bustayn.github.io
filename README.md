@@ -9,7 +9,7 @@
 
 [new page3](assets/03-playing-with-css-variables-and-js/index.html)
 
-[new page4](assets/02-css-js-clock/index.html)
+[new page4](assets/07%20-%20array%20cardio%20day%202/index.html)
 
 You can use the [editor on GitHub](https://github.com/bustayn/bustayn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
